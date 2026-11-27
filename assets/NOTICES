@@ -5668,6 +5668,9 @@ SOFTWARE.
 
 --------------------------------------------------------------------------------
 flutter_lints
+local_auth
+local_auth_darwin
+local_auth_windows
 path_provider_windows
 plugin_platform_interface
 shared_preferences_linux
@@ -5730,11 +5733,8 @@ SOFTWARE.
 --------------------------------------------------------------------------------
 flutter_plugin_android_lifecycle
 listen
-local_auth
 local_auth_android
-local_auth_darwin
 local_auth_platform_interface
-local_auth_windows
 path_provider_linux
 path_provider_platform_interface
 shared_preferences
